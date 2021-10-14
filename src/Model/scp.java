@@ -1,5 +1,6 @@
 package Model;
 
 public class scp {
-    private int 
+    private int number;
+    private Enum ObjectClass;
 }
